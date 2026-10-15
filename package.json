@@ -1,0 +1,19 @@
+{
+  "name": "proyects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exe": "node ejercicios.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^14.2.3",
+    "prompt-sync": "^4.2.0",
+    "prompts": "^2.4.2"
+  }
+}
